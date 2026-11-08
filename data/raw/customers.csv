@@ -1,0 +1,21 @@
+customer_id,first_name,last_name,email,phone,city,signup_date,status
+1001,Alice,Johnson,alice.johnson@email.com,555-0101,New York,2024-01-15,active
+1002,Bob,Smith,bob.smith@email.com,555-0102,Chicago,2024-02-03,active
+1003,Carol,Williams,carol.williams@email.com,,Boston,2024-02-20,active
+1001,Alice,Johnson,alice.johnson@email.com,555-0101,New York,2024-01-15,active
+1004,David,Brown,david.brown.email.com,555-0104,Seattle,2024-03-01,active
+1005,,Davis,emma.davis@email.com,555-0105,Austin,2024-03-12,inactive
+1006,Frank,Miller,frank.miller@email,555-0106,Denver,2024-03-18,active
+1007,Grace,Wilson,grace.wilson@email.com,555-0107,,2024-04-02,active
+1002,Bob,Smith,bob.smith@email.com,555-0102,Chicago,2024-02-03,active
+1008,Henry,Moore,not-an-email,555-0108,Miami,2024-04-10,active
+1009,Irene,Taylor,irene.taylor@email.com,555-0109,Portland,,active
+1010,Jack,Anderson,jack.anderson@email.com,555-0110,Phoenix,2024-05-01,
+1011,Kate,Thomas,kate.thomas@@email.com,555-0111,Dallas,2024-05-15,active
+1003,Carol,Williams,carol.williams@email.com,555-0199,Boston,2024-02-20,active
+1012,Liam,Jackson,liam.jackson@email.com,,Atlanta,2024-06-01,inactive
+1013,Mia,White,,555-0113,San Diego,2024-06-10,active
+1014,Noah,Harris,noah.harris@email.com,555-0114,Nashville,2024-06-22,active
+1005,Emma,Davis,emma.davis@email.com,555-0105,Austin,2024-03-12,inactive
+1015,Olivia,Martin,olivia.martin@email.com,555-0115,Minneapolis,2024-07-04,active
+1016,Peter,Garcia,peter garcia@email.com,555-0116,Tampa,2024-07-18,active
